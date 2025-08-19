@@ -1,27 +1,20 @@
-This App is currently in Development!
+# Storm Shop - Skill Assessment
 
-# What StormShop is ...
+This repository contains my solution for the first step of the TailorMind skill assessment.
 
-StormShop is a project that sells scripts and subscriptions (mostly for Russian users).
-You can buy it on our [website](https://nitro-storm.ru) / [telegram bot](https://t.me/storm_nitro_shop_bot) / [discord server](https://discord.gg/BNsV86yGQA) ... etc.
+## Task
+- Removed the **Subscripts** and **Scripts** buttons from the header.  
+- Added **Create Account** and **Login Account** buttons instead.  
 
-What about scripts? You can easily buy them on our [website](https://nitro-storm.ru). After purchasing you get the archive and README.md file with all instructions. If you wish, we can add you into private GitHub repository with the script you purchased!
+## How to Run
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/your-username/storm-shop-assessment.git
 
-# How to Install
-
-```
-git clone https://tailormind-design-studio-admin@bitbucket.org/tailormind-design-studio/storm-shop.git
-
+2. Navigate into the project directory:
+    ```bash
+    cd storm-shop-assessment
+3. Install dependencies using npm: 
+```bash
 npm install
-
 npm start
-```
-
-# Basic Technical Test
-
-![Logo](public/landing.PNG)
-
-1. Remove Subscripts and Scripts Buttons from header
-2. Instead, add `Create Account` and `Login Account` buttons
-
-In order to submit your test, create a github repository and push all your changes to this repository and share the repository link with your recruiter.
