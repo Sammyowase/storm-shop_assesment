@@ -9,7 +9,7 @@ This repository contains my solution for the first step of the TailorMind skill 
 ## How to Run
 1. Clone the repo:
     ```bash
-    git clone https://github.com/Sammyowase/storm-shop-assesment
+    git clone https://github.com/Sammyowase/storm-shop_assesment
 
 2. Navigate into the project directory:
     ```bash
