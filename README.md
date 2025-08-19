@@ -12,9 +12,10 @@ This repository contains my solution for the first step of the TailorMind skill 
 git clone https://github.com/Sammyowase/storm-shop_assesment
 
 2. Navigate into the project directory:
-```bash
+    ```bash
     cd storm-shop-assessment
+
 3. Install dependencies using npm: 
-```bash
+    ```bash
 npm install
 npm start
